@@ -6,5 +6,3 @@ Atualmente, muitas empresas e instituições governamentais tendem a implantar s
 
 ### Objetivos
 Esse projeto tem como objetivo estudar técnicas e metodologias para propor um sistema para proteção de dados baseado em computação em nuvem, para habilitar um processamento de maior capacidade sem onerar os recursos computacionais dos dispositivos e servidores locais das empresas e instituições governamentais. Assim, tem-se por objetivo desenvolver um sistema para recepção dos dados através de API de comunicação, configuração de anonimização consideradas adequadas, proteger os dados através de criptografia e retornar os dados anonimizados aos usuários do sistema. Por fim, o protótipo foi implantado em ambiente de nuvem para a realização de uma análise experimental robusta.
-
-### Instruções para Teste
