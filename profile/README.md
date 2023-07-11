@@ -6,3 +6,24 @@ Atualmente, muitas empresas e instituições governamentais tendem a implantar s
 
 ### Objetivos
 Esse projeto tem como objetivo estudar técnicas e metodologias para propor um sistema para proteção de dados baseado em computação em nuvem, para habilitar um processamento de maior capacidade sem onerar os recursos computacionais dos dispositivos e servidores locais das empresas e instituições governamentais. Assim, tem-se por objetivo desenvolver um sistema para recepção dos dados através de API de comunicação, configuração de anonimização consideradas adequadas, proteger os dados através de criptografia e retornar os dados anonimizados aos usuários do sistema. Por fim, o protótipo foi implantado em ambiente de nuvem para a realização de uma análise experimental robusta.
+
+### Tecnologias usadas:
+- [Git](git-csm.com) - O Git é um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes com velocidade e eficiência.
+- [Node](https://nodejs.org/en) v12.22.1 - é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web.
+- [Npm](https://www.npmjs.com/) v6.13.4 or [Yarn](https://yarnpkg.com/) v1.21.1
+- [Quasar](https://quasar.dev/) v2.12.0 - Linguagem de programação de código aberto baseada em Vuejs.
+- [Vue](https://vuejs.org/) v3.0.0 -Uma estrutura acessível, de alto desempenho e versátil para a construção de interfaces de usuário da Web.
+
+  
+### Participantes
+### Coordenador do projeto:
+Rafael Lopes
+### Back-end:
+Douglas, Danielle, Jonas, Michael
+### Engenheiro de cloud:
+Ariel
+### Engenheiro de banco de dados:
+Rafael
+### Front-end:
+Vitoria, Maria Clara
+
