@@ -39,7 +39,7 @@ Rafael Lopes
 
   Currículo lattes: http://lattes.cnpq.br/8948204401197537
 ### Engenheiro de cloud:
-Ariel
+- Ariel
 
  Currículo lattes: http://lattes.cnpq.br/4399349211435607
 ### Engenheiro de banco de dados:
