@@ -16,6 +16,9 @@ Esse projeto tem como objetivo estudar técnicas e metodologias para propor um s
 
   
 ### Participantes
+## Front-end:
+- Vitória Maia
+- Maria Clara 
 ### Coordenador do projeto:
 Rafael Lopes
 ### Back-end:
