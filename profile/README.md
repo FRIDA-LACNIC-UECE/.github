@@ -1,18 +1,25 @@
-## Sistema para Proteção de Dados baseado em Técnicas de Anonimização e ciente das Leis de Privacidade
- Feito pelo Laboratório de Redes de Computadores e Segurança da Universidade Estadual do Ceará (LARCES/UECE).
+## Data Protection System based on Encryptation and Anonymization Techniques
+ Made by the Laboratory of Computer Networks and Security of Universidade Estadual do Ceará (LARCES/UECE).
 
-### Resumo da Proposta
-Atualmente, muitas empresas e instituições governamentais tendem a implantar serviços online e em nuvem, a fim de modernizar os respectivos modelos de negócio. Contudo, estas empresas, instituições governamentais e usuários finais estão sujeitos a tentativas de invasão e vazamento de dados. Diversos casos de vazamento de dados têm ocorrido ao redor do mundo. Esta realidade de dados sigilosos circulando pela Internet levaram a uma preocupação do impacto da exposição desses dados pessoais para entidades não desejadas, impulsionando a criação de leis de privacidade, como a Lei Geral de Proteção de Dados (LGPD - 13709/2018) no Brasil e General Data Protection Regulation (GDPR - 2016/679) na Europa, dentre outras leis existente ou sendo criadas em países como Argentina, Colômbia e México. Estas leis têm como principal objetivo legitimar a garantia de proteção dos dados, os quais estão sendo fornecidos pelos usuários e utilizados pelos provedores de serviço, classificando então, o grau de sensibilidade da informação referente à cada indivíduo onde, quanto maior o impacto da exposição de um determinado dado maior a sensibilidade deste. Dentro desse contexto, este projeto visa desenvolver um sistema para proteção de dados, superando esses aspectos citados de forma eficaz baseada em técnicas de anonimização de dados. Adicionalmente, esta solução será integrada com um ambiente de computação em nuvem, habilitando um processamento de maior capacidade sem onerar os recursos computacionais dos dispositivos e servidores locais das empresas e instituições governamentais. Este projeto apresenta uma solução inovadora no que se refere a proteção de dados e privacidade, pois permitirá às empresas e instituições governamentais armazenarem e/ou divulgar dados sem ferir os pontos elencados pelas leis de privacidade, evitando que, mesmo que ocorram casos de vazamento de dados, estas sofram as sanções previstas na lei.
+### Proposal summary
+Currently, many companies and government institutions tend to deploy online and cloud services in order to modernize their business models. However, these companies, government institutions and end users are subject to intrusion attempts and data leakage. Several cases of data leakage have occurred around the world. This reality of sensitive data circulating on the Internet led to a concern about the impact of exposing this personal data to unwanted entities, driving the creation of privacy laws, such as the General Data Protection Law (LGPD - 13709/2018) in Brazil and General Data Protection Regulation (GDPR - 2016/679) in Europe, among other laws existing or being created in countries such as Argentina, Colombia and Mexico. These laws have as their main objective to legitimize the guarantee of data protection, which are being provided by users and used by service providers, classifying then, the degree of sensitivity of the information referring to each individual where, the greater the impact of the exposure of given data, the greater its sensitivity. Within this context, this project aims to develop a system for data protection, effectively overcoming these mentioned aspects based on data anonymization techniques. Additionally, this solution will be integrated with a cloud computing environment, enabling higher capacity processing without burdening the computational resources of devices and local servers of companies and government institutions. This project presents an innovative solution with regard to data protection and privacy, as it will allow companies and government institutions to store and/or disclose data without violating the points listed by privacy laws, preventing, even if there are cases of data leakage, data, they suffer the sanctions provided for by law.
 
-### Objetivos
-Esse projeto tem como objetivo estudar técnicas e metodologias para propor um sistema para proteção de dados baseado em computação em nuvem, para habilitar um processamento de maior capacidade sem onerar os recursos computacionais dos dispositivos e servidores locais das empresas e instituições governamentais. Assim, tem-se por objetivo desenvolver um sistema para recepção dos dados através de API de comunicação, configuração de anonimização consideradas adequadas, proteger os dados através de criptografia e retornar os dados anonimizados aos usuários do sistema. Por fim, o protótipo foi implantado em ambiente de nuvem para a realização de uma análise experimental robusta.
+### Description Project
+This project aims to study techniques and methodologies to propose a system for data protection based on cloud computing, to enable a higher capacity processing without encumbering the computational resources of devices and local servers of companies and government institutions. Thus, the objective is to develop a system for receiving data through a communication API, anonymization configuration considered adequate, protecting data through encryption and returning anonymized data to system users. Finally, the prototype was deployed in a cloud environment to carry out a robust experimental analysis.
 
-### Tecnologias usadas:
-- [Git](git-csm.com) - O Git é um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes com velocidade e eficiência.
-- [Node](https://nodejs.org/en) v12.22.1 - é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web.
+### Technologies used:
+- [Git](git-csm.com) - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+- [Node](https://nodejs.org/en) v12.22.1 - Node.js is an open-source, cross-platform JavaScript runtime environment.
 - [Npm](https://www.npmjs.com/) v6.13.4 or [Yarn](https://yarnpkg.com/) v1.21.1
-- [Quasar](https://quasar.dev/) v2.12.0 - Linguagem de programação de código aberto baseada em Vuejs.
-- [Vue](https://vuejs.org/) v3.0.0 -Uma estrutura acessível, de alto desempenho e versátil para a construção de interfaces de usuário da Web.
+- [Quasar](https://quasar.dev/) v2.12.0 - Open source programming language based on Vuejs.
+- [Vue](https://vuejs.org/) v3.0.0 -An approachable, performant and versatile framework for building web user interfaces.
+- [Vue-router](https://router.vuejs.org/) v4.0.0 - Expressive, configurable and convenient routing for Vue.js.
+- [Vuex](https://vuex.vuejs.org/) - Vuex is a state management pattern + library for Vue.js applications.
+- [Axios](https://axios-http.com/) v0.27.2 - Axios is a promise-based HTTP Client for node.js and the browser.
+- [Python](https://www.python.org/) - Open source programming language.
+- [Flask] - Web framework for building web applications and APIs in Python.
+- [SQLAlchemy](https://www.sqlalchemy.org/) - Object-Relational Mapping (ORM) library that provides a interface to interact with databases using Python.
+- [Swagger](https://swagger.io/) - A toolset that facilitates easy interaction with APIs and the creation of API documentation.
 
   
 ### Participantes
@@ -41,7 +48,7 @@ Rafael Lopes
 ### Engenheiro de cloud:
 - Ariel
 
- Currículo lattes: http://lattes.cnpq.br/4399349211435607
+  Currículo lattes: http://lattes.cnpq.br/4399349211435607
 ### Engenheiro de banco de dados:
 Rafael
 
