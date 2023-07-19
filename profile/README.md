@@ -18,7 +18,8 @@ Esse projeto tem como objetivo estudar técnicas e metodologias para propor um s
 ### Participantes
 ## Front-end:
 - Vitória Maia
-- Maria Clara 
+- Maria Clara
+  Curriculo lattes:  https://lattes.cnpq.br/3456660001349261 
 ### Coordenador do projeto:
 Rafael Lopes
 ### Back-end:
