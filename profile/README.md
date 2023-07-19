@@ -20,11 +20,16 @@ Esse projeto tem como objetivo estudar técnicas e metodologias para propor um s
 - Vitória Maia
 - Maria Clara
 
-  Curriculo lattes:  https://lattes.cnpq.br/3456660001349261 
+  Curriculo lattes:  (https://lattes.cnpq.br/3456660001349261) 
 ### Coordenador do projeto:
 Rafael Lopes
 ### Back-end:
-Douglas, Danielle, Jonas, Michael
+- Douglas Araújo
+
+  Currículo lattes: http://lattes.cnpq.br/2296901880718308
+- Danielle,
+- Jonas,
+- Michael
 ### Engenheiro de cloud:
 Ariel
 ### Engenheiro de banco de dados:
