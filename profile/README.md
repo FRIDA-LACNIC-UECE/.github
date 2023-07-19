@@ -18,22 +18,31 @@ Esse projeto tem como objetivo estudar técnicas e metodologias para propor um s
 ### Participantes
 ## Front-end:
 - Vitória Maia
+
+  Currículo lattes:  https://lattes.cnpq.br/2228081989279340
 - Maria Clara
 
-  Curriculo lattes:  (https://lattes.cnpq.br/3456660001349261) 
+  Curriculo lattes:  https://lattes.cnpq.br/3456660001349261 
 ### Coordenador do projeto:
 Rafael Lopes
 ### Back-end:
 - Douglas Araújo
 
   Currículo lattes: http://lattes.cnpq.br/2296901880718308
-- Danielle,
-- Jonas,
+- Danielle
+
+  Currículo lattes: https://lattes.cnpq.br/5639924024679664
+- Jonas
+
+  Currículo lattes: https://lattes.cnpq.br/0050427409729489
 - Michael
+
+  Currículo lattes: http://lattes.cnpq.br/8948204401197537
 ### Engenheiro de cloud:
 Ariel
+
+ Currículo lattes: http://lattes.cnpq.br/4399349211435607
 ### Engenheiro de banco de dados:
 Rafael
-### Front-end:
-Vitoria, Maria Clara
+
 
